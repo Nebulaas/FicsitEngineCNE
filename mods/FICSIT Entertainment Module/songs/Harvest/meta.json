@@ -1,0 +1,16 @@
+{
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 205,
+	"difficulties": [
+		"Hard"
+	],
+	"needsVoices": true,
+	"parsedColor": -13151678,
+	"displayName": "Harvest",
+	"icon": "mercer-sphere",
+	"name": "Harvest",
+	"color": "#375242"
+}

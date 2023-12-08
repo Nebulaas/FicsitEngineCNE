@@ -1,0 +1,15 @@
+<!DOCTYPE codename-engine-stage>
+<stage folder="/" name="massage" zoom="0.6">
+	<girlfriend/>
+	<dad x="-288" y="133.5"/>
+	<sprite x="-2850" y="-1620" updateHitbox="true" scale="3" type="none" name="sky" scrollx="0" scrolly="0" sprite="massage2(A-B)b/sky"/>
+	<sprite x="-2850" y="-1600" updateHitbox="true" scale="3" type="none" name="arch" scrollx="0.5" scrolly="0.5" sprite="massage2(A-B)b/arch"/>
+	<sprite x="-2850" sprite="massage2(A-B)b/main_bg" y="-1640" updateHitbox="true" scale="3" type="none" name="grass fields"/>
+	<sprite x="-1450" sprite="massage2(A-B)b/ficsmas/ficsmas_pole" y="-820" updateHitbox="true" scale="2" type="none" name="grass fields"/>
+	<sprite scrolly="1.02" x="-120" y="440" sprite="massage2(A-B)b/baller" type="none" scrollx="1.02" name="mercer_sphere"/>
+	<sprite scrolly="0.98" x="340" updateHitbox="true" y="610" sprite="massage2(A-B)b/boombox" scrollx="0.98" name="boombox"/>
+	<boyfriend x="615.5" y="123"/>
+	<sprite scrolly="1.15" x="-3100" updateHitbox="true" y="-1700" sprite="massage2(A-B)b/fg_0" scale="3" scrollx="1.15" name="fg grass 0"/>
+	<sprite scrolly="1.3" x="-3200" updateHitbox="true" y="-1500" sprite="massage2(A-B)b/fg_1" scale="3" scrollx="1.3" name="fg grass 1"/>
+	<combo/>
+</stage>

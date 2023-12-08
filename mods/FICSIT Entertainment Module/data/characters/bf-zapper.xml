@@ -1,0 +1,18 @@
+<!DOCTYPE codename-engine-character>
+<character x="-50" icon="bf" camx="-90" y="350" isGF="false" camy="-110" flipX="true" isPlayer="true" sprite="bf-zapper">
+	<anim x="-5" loop="false" y="0" fps="24" anim="BF idle dance" name="idle"/>
+	<anim x="-21" loop="false" y="-6" fps="24" anim="BF NOTE LEFT0" name="singLEFT"/>
+	<anim x="-25" loop="false" y="-51" fps="24" anim="BF NOTE DOWN0" name="singDOWN"/>
+	<anim x="-40" loop="false" y="31" fps="24" anim="BF NOTE UP0" name="singUP"/>
+	<anim x="-72" loop="false" y="-6" fps="24" anim="BF NOTE RIGHT0" name="singRIGHT"/>
+	<anim x="17" loop="false" y="20" fps="24" anim="BF NOTE LEFT MISS" name="singLEFTmiss"/>
+	<anim x="-25" loop="false" y="-19" fps="24" anim="BF NOTE DOWN MISS" name="singDOWNmiss"/>
+	<anim x="-40" loop="false" y="27" fps="24" anim="BF NOTE UP MISS" name="singUPmiss"/>
+	<anim x="-71" loop="false" y="22" fps="24" anim="BF NOTE RIGHT MISS" name="singRIGHTmiss"/>
+	<anim x="2" loop="false" y="5" fps="24" anim="BF HEY" name="hey"/>
+	<anim x="48" loop="false" y="41" fps="24" anim="BF hit" name="hurt"/>
+	<anim x="-20" loop="true" y="1" fps="24" anim="BF idle shaking" name="scared"/>
+	<anim x="30" loop="false" y="-6" fps="24" anim="boyfriend dodge" name="dodge"/>
+	<anim x="301" loop="false" y="374" fps="24" anim="boyfriend attack" name="attack"/>
+	<anim x="-90" loop="false" y="-40" fps="24" anim="bf pre attack" name="pre-attack"/>
+</character>

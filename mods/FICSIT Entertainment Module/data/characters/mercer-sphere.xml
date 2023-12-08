@@ -1,0 +1,8 @@
+<!DOCTYPE codename-engine-character>
+<character x="0" icon="mercer-sphere" y="180" isGF="false" isPlayer="false" sprite="dad">
+	<anim x="0" loop="false" y="0" fps="24" anim="Dad idle dance" name="idle"/>
+	<anim x="-6" loop="false" y="50" fps="24" anim="Dad Sing note UP" name="singUP"/>
+	<anim x="-10" loop="false" y="10" fps="24" anim="dad sing note right" name="singLEFT"/>
+	<anim x="0" loop="false" y="27" fps="24" anim="Dad Sing Note LEFT" name="singRIGHT"/>
+	<anim x="0" loop="false" y="-30" fps="24" anim="Dad Sing Note DOWN" name="singDOWN"/>
+</character>

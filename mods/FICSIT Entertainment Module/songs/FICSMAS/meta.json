@@ -1,0 +1,16 @@
+{
+	"opponentModeAllowed": false,
+	"coopAllowed": false,
+	"stepsPerBeat": 4,
+	"beatsPerMesure": 4,
+	"bpm": 117,
+	"difficulties": [
+		"Hard"
+	],
+	"needsVoices": true,
+	"parsedColor": -13151678,
+	"displayName": "FICSMAS",
+	"icon": "mercer-sphere",
+	"name": "FICSMAS",
+	"color": "#375242"
+}
