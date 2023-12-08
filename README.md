@@ -1,2 +1,2 @@
 # FicsitEngineCNE
- Build of Codename Engine, to be used for 'A Satisfactory '
+ Build of Codename Engine, to be used for 'A Satisfactory FNF Mod'

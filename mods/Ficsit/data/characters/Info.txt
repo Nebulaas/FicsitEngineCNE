@@ -1,0 +1,77 @@
+Here is where the character offsets go. The offset files are in the .xml format but you can't use your existing .xml from Adobe Animate/Flash here as those are for making the spritesheet work in general.
+
+
+
+1. Press 7 on the main menu and select the character editor.
+
+
+
+2. Select any character.
+
+
+
+3. Remove all animations so you can start off fresh.
+
+
+
+4. Go to "Edit Character Info" located in the "Character Properties" window and set the character's spritesheet name and icon name according to the ones in "images/characters" and "images/icons".
+
+   - You can also put the name of the character the current character will change to on death in the "Game Over Character" text string. For example, when BF dies, the character "bf-dead" will be called. This means you have to make two characters in order for this to work but this is optional if you decide to make a player.
+
+   - If you DO want to make a player, also in the window is "isPlayer" which you can check to turn that function on. Additionally, you can also click "flipX" if the character on the spritesheet is facing right.
+
+
+
+5. In the "Character Animations" window, click the big plus button to add an animation.
+
+
+
+6. In the window that pops up, set the animation name from the .xml in the "name" text string and set the in-game animation name in the "anim" text string. (Scroll down further for animation names)
+
+   - There is a "indices" text string. This can be used for specific frames of an animation you want to use and can be used for the "danceLeft" and "danceRight" animations.
+
+
+
+7. Set your offsets by clicking on a animation you added and use the arrow keys to move the specific animation by a pixel. If you hold down SHIFT and press the arrow keys, you can move the animation by 10 pixels.
+
+
+
+8. After all that is set, go to the top-left of the screen and click "File > Save as" and save to this folder.
+
+
+
+The "anim" string takes these specific names:
+
+Idle Animation:
+idle
+
+Dance Animations (for Girlfriend-type characters):
+danceLeft
+danceRight
+
+Arrow Animations:
+singLEFT
+singRIGHT
+singUP
+singDOWN
+
+Miss Animations:
+singLEFT-miss
+singRIGHT-miss
+singUP-miss
+singDOWN-miss
+
+Alternate Arrow Animations:
+singLEFT-alt
+singRIGHT-alt
+singUP-alt
+singDOWN-alt
+
+Special Animations:
+hey
+sad
+
+Death Animations:
+firstDeath
+deathLoop
+deathConfirm

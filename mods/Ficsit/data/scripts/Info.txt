@@ -1,0 +1,1 @@
+If you understand .hx scripting, this shouldn't be too hard and I recommend going to the Codename Engine github and learning from the source code.

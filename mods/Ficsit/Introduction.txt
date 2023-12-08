@@ -1,0 +1,10 @@
+IMPORTANT!!!
+
+This is what a mods folder should look like for Codename Engine.
+The question is, how do you actually get this mod to work?
+
+For getting the mod to show up in-game, put the base mod folder into Codename Engine's mod folder; take nothing out of this folder as it won't work.
+
+For specific elements, look in the other folders for more information.
+
+(Don't expect everything to be documented as I haven't learned everything yet)

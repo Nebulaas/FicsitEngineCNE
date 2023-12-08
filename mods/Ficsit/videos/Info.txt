@@ -1,0 +1,1 @@
+This file shouldn't be here, rather in a song's folder so a cutscene for that song can play. Only .MP4 files are supported here and should be in this folder.

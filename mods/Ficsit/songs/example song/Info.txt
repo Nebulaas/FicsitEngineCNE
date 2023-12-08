@@ -1,0 +1,52 @@
+Songs require both of these folders. In the charts folder, song charts have to be named by their difficulty so if you want a song to have certain difficulties, name a chart "normal" or "hard" without the song name as the previous folder you came from will recognize the charts inside and connect everything together.
+Here is how you make a new chart:
+
+
+
+1. Press 7 on the main menu and select the chart editor
+
+
+
+2. Select the song and difficulty you want to edit (Use the example chart as you can't make new charts).
+
+
+
+3. Chart away! On a longer note, you should also use the events as they're the only way you can switch back and fourth between characters. Click on the left of your strumline where it'll show "Add event" and use the "Camera Movement" event for this. You can use this to add other sorts of events if you so choose.
+
+   - Make sure you select who you want in the song. Under a character icon, click "Options > Edit" to edit that character's properties such as placement, role & more.
+
+   - Also next to the icon furthest to the right is a plus icon; which you can click on to add more characters.
+
+
+
+4. When you're done, go to the top-left corner and click "Chart > Edit chart information" to set the stage and the scroll speed.
+
+
+
+5. After that, click on "File > Save" or "File > Save as".
+
+   - If you already have multiple difficulties you set in the chart editor, (will explain later) you can go back to the song selection for the chart editor and pick a different difficulty to chart.
+
+
+
+The songs folder is nothing new, you only need the "Inst.ogg" & "Voices.ogg" like every other engine.
+
+There should also be a meta.json file but here's how you can make one yourself:
+
+
+
+1. Press 7 on the main menu and select the chart editor
+
+
+
+2. Select the song and difficulty you want to edit
+
+
+
+3. On the top-left of the screen, click "Chart > Edit metadata information" to set the song name, song display name, freeplay icon & color, difficulties, BPM and Time Signature.
+
+   - You can also enable or disable voices, or you can add special modes such as opponent mode and co-op mode. When these modes are set, they can be toggleable in freeplay.
+
+
+
+4. When you're done, click "File > Save meta" or "File > Save meta as".

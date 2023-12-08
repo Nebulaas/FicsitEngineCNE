@@ -1,0 +1,3 @@
+Stages are made with .xml files but the stage editor is a joke so you have to make them manually. This is why there's an example stage included whish is just a duplicate of the week 1 stage.
+
+The script should easily explain what is what.
